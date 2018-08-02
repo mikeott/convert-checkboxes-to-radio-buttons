@@ -1,4 +1,4 @@
-function convert_root_cats_to_radio() {
+function convert_cats_to_radios() {
 global $post_type;
 ?>
 	<script type="text/javascript">
@@ -12,5 +12,5 @@ global $post_type;
 	});
 	</script> <?php
 }
-add_action( 'admin_footer-post.php',     'convert_root_cats_to_radio' );
-add_action( 'admin_footer-post-new.php', 'convert_root_cats_to_radio' );
+add_action( 'admin_footer-post.php',     'convert_cats_to_radios' );
+add_action( 'admin_footer-post-new.php', 'convert_cats_to_radios' );
