@@ -1,4 +1,4 @@
-# Convert checkboxes to radio buttons in WordPress admin
+# Convert checkboxes to radio buttons in WordPress admin category metabox
 
 **Why would you want to do this?**
 
