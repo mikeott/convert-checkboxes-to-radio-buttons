@@ -6,4 +6,4 @@ Imagine a scenario where you don't want to enable hierarchy (and you only want t
 
 **Before and After**
 
-[![N|Solid](https://raw.githubusercontent.com/mikeott/wp-system/master/images/wp-system.gif)](https://github.com/mikeott/convert-checkboxes-to-radio-buttons)
+[![N|Solid](https://raw.githubusercontent.com/mikeott/convert-checkboxes-to-radio-buttons/master/before-after.png)](https://github.com/mikeott/convert-checkboxes-to-radio-buttons)
